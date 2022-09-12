@@ -91,10 +91,7 @@ extension ImageViewController {
         }
     }
     
-    
-    
-    
-    
+   
     
 //    private func loadNewImage() {
 //        imageView.image = nil
